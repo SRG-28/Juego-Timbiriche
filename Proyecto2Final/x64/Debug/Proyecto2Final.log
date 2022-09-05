@@ -1,0 +1,52 @@
+﻿  CampoNuevePuntos.cpp
+  CampoQuincePuntos.cpp
+  CampoResultante.cpp
+  CampoSeisPuntos.cpp
+  ContenedorM.cpp
+  ContenedorV.cpp
+  Control.cpp
+  EmpresaDots.cpp
+D:\sofia\Escritorio\Github\C++\Patrones-etc\Relaciones\Proyecto2Final - copia\Proyecto2Final\EmpresaDots.cpp(59,23): warning C4552: "-": el resultado de la expresión no se usa
+  Interfaz.cpp
+  Juego.cpp
+  JuegoAleatorio.cpp
+D:\sofia\Escritorio\Github\C++\Patrones-etc\Relaciones\Proyecto2Final - copia\Proyecto2Final\JuegoAleatorio.cpp(28,12): warning C4244: 'argumento': conversión de 'time_t' a 'unsigned int'; posible pérdida de datos
+D:\sofia\Escritorio\Github\C++\Patrones-etc\Relaciones\Proyecto2Final - copia\Proyecto2Final\JuegoAleatorio.cpp(41,12): warning C4244: 'argumento': conversión de 'time_t' a 'unsigned int'; posible pérdida de datos
+D:\sofia\Escritorio\Github\C++\Patrones-etc\Relaciones\Proyecto2Final - copia\Proyecto2Final\JuegoAleatorio.cpp(50,12): warning C4244: 'argumento': conversión de 'time_t' a 'unsigned int'; posible pérdida de datos
+D:\sofia\Escritorio\Github\C++\Patrones-etc\Relaciones\Proyecto2Final - copia\Proyecto2Final\JuegoAleatorio.cpp(101,14): warning C4244: 'argumento': conversión de 'time_t' a 'unsigned int'; posible pérdida de datos
+D:\sofia\Escritorio\Github\C++\Patrones-etc\Relaciones\Proyecto2Final - copia\Proyecto2Final\JuegoAleatorio.cpp(106,14): warning C4244: 'argumento': conversión de 'time_t' a 'unsigned int'; posible pérdida de datos
+D:\sofia\Escritorio\Github\C++\Patrones-etc\Relaciones\Proyecto2Final - copia\Proyecto2Final\JuegoAleatorio.cpp(114,14): warning C4244: 'argumento': conversión de 'time_t' a 'unsigned int'; posible pérdida de datos
+D:\sofia\Escritorio\Github\C++\Patrones-etc\Relaciones\Proyecto2Final - copia\Proyecto2Final\JuegoAleatorio.cpp(119,14): warning C4244: 'argumento': conversión de 'time_t' a 'unsigned int'; posible pérdida de datos
+  JuegoCentral.cpp
+D:\sofia\Escritorio\Github\C++\Patrones-etc\Relaciones\Proyecto2Final - copia\Proyecto2Final\JuegoCentral.cpp(30,12): warning C4244: 'argumento': conversión de 'time_t' a 'unsigned int'; posible pérdida de datos
+D:\sofia\Escritorio\Github\C++\Patrones-etc\Relaciones\Proyecto2Final - copia\Proyecto2Final\JuegoCentral.cpp(43,12): warning C4244: 'argumento': conversión de 'time_t' a 'unsigned int'; posible pérdida de datos
+D:\sofia\Escritorio\Github\C++\Patrones-etc\Relaciones\Proyecto2Final - copia\Proyecto2Final\JuegoCentral.cpp(52,12): warning C4244: 'argumento': conversión de 'time_t' a 'unsigned int'; posible pérdida de datos
+D:\sofia\Escritorio\Github\C++\Patrones-etc\Relaciones\Proyecto2Final - copia\Proyecto2Final\JuegoCentral.cpp(109,14): warning C4244: 'argumento': conversión de 'time_t' a 'unsigned int'; posible pérdida de datos
+D:\sofia\Escritorio\Github\C++\Patrones-etc\Relaciones\Proyecto2Final - copia\Proyecto2Final\JuegoCentral.cpp(114,14): warning C4244: 'argumento': conversión de 'time_t' a 'unsigned int'; posible pérdida de datos
+D:\sofia\Escritorio\Github\C++\Patrones-etc\Relaciones\Proyecto2Final - copia\Proyecto2Final\JuegoCentral.cpp(122,14): warning C4244: 'argumento': conversión de 'time_t' a 'unsigned int'; posible pérdida de datos
+D:\sofia\Escritorio\Github\C++\Patrones-etc\Relaciones\Proyecto2Final - copia\Proyecto2Final\JuegoCentral.cpp(127,14): warning C4244: 'argumento': conversión de 'time_t' a 'unsigned int'; posible pérdida de datos
+  JuegoCercano.cpp
+D:\sofia\Escritorio\Github\C++\Patrones-etc\Relaciones\Proyecto2Final - copia\Proyecto2Final\JuegoCercano.cpp(28,12): warning C4244: 'argumento': conversión de 'time_t' a 'unsigned int'; posible pérdida de datos
+D:\sofia\Escritorio\Github\C++\Patrones-etc\Relaciones\Proyecto2Final - copia\Proyecto2Final\JuegoCercano.cpp(41,12): warning C4244: 'argumento': conversión de 'time_t' a 'unsigned int'; posible pérdida de datos
+D:\sofia\Escritorio\Github\C++\Patrones-etc\Relaciones\Proyecto2Final - copia\Proyecto2Final\JuegoCercano.cpp(50,12): warning C4244: 'argumento': conversión de 'time_t' a 'unsigned int'; posible pérdida de datos
+D:\sofia\Escritorio\Github\C++\Patrones-etc\Relaciones\Proyecto2Final - copia\Proyecto2Final\JuegoCercano.cpp(101,14): warning C4244: 'argumento': conversión de 'time_t' a 'unsigned int'; posible pérdida de datos
+D:\sofia\Escritorio\Github\C++\Patrones-etc\Relaciones\Proyecto2Final - copia\Proyecto2Final\JuegoCercano.cpp(106,14): warning C4244: 'argumento': conversión de 'time_t' a 'unsigned int'; posible pérdida de datos
+D:\sofia\Escritorio\Github\C++\Patrones-etc\Relaciones\Proyecto2Final - copia\Proyecto2Final\JuegoCercano.cpp(114,14): warning C4244: 'argumento': conversión de 'time_t' a 'unsigned int'; posible pérdida de datos
+D:\sofia\Escritorio\Github\C++\Patrones-etc\Relaciones\Proyecto2Final - copia\Proyecto2Final\JuegoCercano.cpp(119,14): warning C4244: 'argumento': conversión de 'time_t' a 'unsigned int'; posible pérdida de datos
+  JuegoIslas.cpp
+  JuegoPeriferico.cpp
+D:\sofia\Escritorio\Github\C++\Patrones-etc\Relaciones\Proyecto2Final - copia\Proyecto2Final\JuegoPeriferico.cpp(28,12): warning C4244: 'argumento': conversión de 'time_t' a 'unsigned int'; posible pérdida de datos
+D:\sofia\Escritorio\Github\C++\Patrones-etc\Relaciones\Proyecto2Final - copia\Proyecto2Final\JuegoPeriferico.cpp(41,12): warning C4244: 'argumento': conversión de 'time_t' a 'unsigned int'; posible pérdida de datos
+D:\sofia\Escritorio\Github\C++\Patrones-etc\Relaciones\Proyecto2Final - copia\Proyecto2Final\JuegoPeriferico.cpp(50,12): warning C4244: 'argumento': conversión de 'time_t' a 'unsigned int'; posible pérdida de datos
+  Jugada.cpp
+  Jugador.cpp
+  Maquina.cpp
+  PersonVSPerson.cpp
+D:\sofia\Escritorio\Github\C++\Patrones-etc\Relaciones\Proyecto2Final - copia\Proyecto2Final\PersonVSPerson.cpp(22,12): warning C4244: 'argumento': conversión de 'time_t' a 'unsigned int'; posible pérdida de datos
+  principal.cpp
+  Generando código...
+D:\sofia\Escritorio\Github\C++\Patrones-etc\Relaciones\Proyecto2Final - copia\Proyecto2Final\ContenedorV.cpp(37): warning C4715: 'ContenedorV::getCampo': no todas las rutas de acceso de control devuelven un valor
+  Compilando...
+  ProcesaCompuesto.cpp
+  Generando código...
+  Proyecto2Final.vcxproj -> D:\sofia\Escritorio\Github\C++\Patrones-etc\Relaciones\Proyecto2Final - copia\x64\Debug\Proyecto2Final.exe

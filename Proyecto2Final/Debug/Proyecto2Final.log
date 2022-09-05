@@ -1,0 +1,19 @@
+﻿  Control.cpp
+  JuegoCentral.cpp
+C:\Users\Lenovo\Desktop\Proyecto2Final\Proyecto2Final\JuegoCentral.cpp(30,12): warning C4244: 'argumento': conversión de 'time_t' a 'unsigned int'; posible pérdida de datos
+C:\Users\Lenovo\Desktop\Proyecto2Final\Proyecto2Final\JuegoCentral.cpp(43,12): warning C4244: 'argumento': conversión de 'time_t' a 'unsigned int'; posible pérdida de datos
+C:\Users\Lenovo\Desktop\Proyecto2Final\Proyecto2Final\JuegoCentral.cpp(52,12): warning C4244: 'argumento': conversión de 'time_t' a 'unsigned int'; posible pérdida de datos
+C:\Users\Lenovo\Desktop\Proyecto2Final\Proyecto2Final\JuegoCentral.cpp(109,14): warning C4244: 'argumento': conversión de 'time_t' a 'unsigned int'; posible pérdida de datos
+C:\Users\Lenovo\Desktop\Proyecto2Final\Proyecto2Final\JuegoCentral.cpp(114,14): warning C4244: 'argumento': conversión de 'time_t' a 'unsigned int'; posible pérdida de datos
+C:\Users\Lenovo\Desktop\Proyecto2Final\Proyecto2Final\JuegoCentral.cpp(122,14): warning C4244: 'argumento': conversión de 'time_t' a 'unsigned int'; posible pérdida de datos
+C:\Users\Lenovo\Desktop\Proyecto2Final\Proyecto2Final\JuegoCentral.cpp(127,14): warning C4244: 'argumento': conversión de 'time_t' a 'unsigned int'; posible pérdida de datos
+  JuegoCercano.cpp
+C:\Users\Lenovo\Desktop\Proyecto2Final\Proyecto2Final\JuegoCercano.cpp(28,12): warning C4244: 'argumento': conversión de 'time_t' a 'unsigned int'; posible pérdida de datos
+C:\Users\Lenovo\Desktop\Proyecto2Final\Proyecto2Final\JuegoCercano.cpp(41,12): warning C4244: 'argumento': conversión de 'time_t' a 'unsigned int'; posible pérdida de datos
+C:\Users\Lenovo\Desktop\Proyecto2Final\Proyecto2Final\JuegoCercano.cpp(50,12): warning C4244: 'argumento': conversión de 'time_t' a 'unsigned int'; posible pérdida de datos
+C:\Users\Lenovo\Desktop\Proyecto2Final\Proyecto2Final\JuegoCercano.cpp(101,14): warning C4244: 'argumento': conversión de 'time_t' a 'unsigned int'; posible pérdida de datos
+C:\Users\Lenovo\Desktop\Proyecto2Final\Proyecto2Final\JuegoCercano.cpp(106,14): warning C4244: 'argumento': conversión de 'time_t' a 'unsigned int'; posible pérdida de datos
+C:\Users\Lenovo\Desktop\Proyecto2Final\Proyecto2Final\JuegoCercano.cpp(114,14): warning C4244: 'argumento': conversión de 'time_t' a 'unsigned int'; posible pérdida de datos
+C:\Users\Lenovo\Desktop\Proyecto2Final\Proyecto2Final\JuegoCercano.cpp(119,14): warning C4244: 'argumento': conversión de 'time_t' a 'unsigned int'; posible pérdida de datos
+  Generando código...
+  Proyecto2Final.vcxproj -> C:\Users\Lenovo\Desktop\Proyecto2Final\Debug\Proyecto2Final.exe
